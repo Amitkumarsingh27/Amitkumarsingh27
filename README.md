@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumarsingh&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Amitkumarsingh&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amitkumarsingh&theme=radical&hide_border=false)
