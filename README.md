@@ -102,6 +102,18 @@ Here are some ideas to get you started:
   </a>
   
 </p>
+<p>
+<h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/amit-kumar-singh-80a555214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/mrzeref1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>&nbsp;
+<a href="theamit646@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumarsingh&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
