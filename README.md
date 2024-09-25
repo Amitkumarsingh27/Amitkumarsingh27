@@ -15,7 +15,25 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Amitkumarsingh27..;;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+
+```c++
+#include<bits/stdc++.h>
+int main() 
+{
+  string ⚡bio = "I am Amit kumar singh, passionate coder on a noble mission to experiment with technology. 
+                    I am labelled to create chaos with code, 
+                    so bugs just stay with me, they won't hunt you :P";
+  // No idea about collision handling here, if you hear them a lot ping me :P
+  unordered_map<string,string> everythingElse;
+  everythingElse["Pronouns 💬"] = "he/her"
+  everythingElse["Ask me about 👯"] = "JS,NODE JS,React,data structures,algorithms.
+                                       We can even talk dynamic programming, I won't run away :P";
+  everythingElse["I’m currently learning 🔭"] = "Databases,flutter,theoritical computer science
+                                                 (I can boring at times :P)";
+  
+  return 0;
+}
+```
 
     
 # 🖥️ Technical Skills: 
